@@ -4,11 +4,11 @@
 
 ![image](https://github.com/fengyinhe/fengyihangDataMining/assets/59045834/bbdffdfe-6de8-43ea-9485-64412eefc932)
 
-在仓库`创建`页面进行仓库命名以及介绍，私密性设置等操作
+在仓库创建`页面进行仓库命名以及介绍，私密性设置等操作
 
 ![image](https://github.com/fengyinhe/fengyihangDataMining/assets/59045834/209c09fa-a350-426e-9a51-3a9f7d305bf4)
 
-点击creat repository完成新库的创建
+点击`creat repository`完成新库的创建
 ## PPT上传至仓库中
 1.在本地新建文件夹作为本地仓库
 
