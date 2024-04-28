@@ -8,7 +8,7 @@
 
 ![image](https://github.com/fengyinhe/fengyihangDataMining/assets/59045834/209c09fa-a350-426e-9a51-3a9f7d305bf4)
 
-点击`creat repository完成新库的创建
+点击`creat repository`完成新库的创建
 ## PPT上传至仓库中
 1.在本地新建文件夹作为本地仓库
 
@@ -21,3 +21,15 @@
 5.添加远程仓库 `git remote add origin https://github.com/enterdawn/gzqDataMining.git`并使用`git push origin main`将更改推送到远程仓库中
 
 ## 想学习的计算机技能
+### 音频识别算法
+多模态识别需要对各种方向算法技术都有所掌握和了解，目前学习到的知识只包含了视觉和自然语言处理两方面，但是音频语音领域并没有进行系统性的学习，为了能在项目中增加新的模态，音频语音方向的学习对于我现在的项目来说比较重要
+
+因此我规划了我接下来学习该方向技术的计划：
+1.理论学习
+
+了解并掌握`MFCC（梅尔频率倒谱系数）、PLP、LFCC`等经典音频特征提取方法
+
+2.实践操作
+
+学习使用音频处理库，如`Python`中的`librosa、audioread、pydub`等，并对当前项目中的音频数据进行数据处理等练习
+
