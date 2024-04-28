@@ -16,6 +16,8 @@
 
 3.在终端中使用`git inti`在当前目录初始化git仓库
 
+4.使用`git commit -m "Add 多模态识别精神疾病.pptx"`提交更改仓库
 
-## 小标题
-### 三级
+5.添加远程仓库 `git remote add origin https://github.com/enterdawn/gzqDataMining.git`并使用`git push origin main`将更改推送到远程仓库中
+
+## 想学习的计算机技能
